@@ -1,6 +1,6 @@
 <?php
 /**
- *Usage:
+ * Usage:
  *  $array = array(
  *  	array(
  *  		"name" => "Christian Wiles",
@@ -31,8 +31,8 @@ function array_multisort_return($data, $sort_type, $array) {
 
 /**
  *Should return:
- *Array
- *(
+ * Array
+ * (
  *    [0] => Array
  *        (
  *            [name] => John Doe
@@ -45,6 +45,6 @@ function array_multisort_return($data, $sort_type, $array) {
  *            [github] => christianjameswiles
  *            [count] => 1
  *        )
- *)
+ * )
 **/
 ?>
